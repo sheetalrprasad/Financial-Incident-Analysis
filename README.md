@@ -28,7 +28,7 @@ Running the notebook files require a set of packages to be installed. The packag
 `pip install -r requirements.txt`
 
 #### Code Organisation
-Non-Sequential Models are developed under file Non_Sequential_Model.ipynb
-Sequential Models are developed under file Sequential_Model.ipynb
+- Non-Sequential Models are developed under file Non_Sequential_Model.ipynb
+- Sequential Models are developed under file Sequential_Model.ipynb
 
 
