@@ -4,11 +4,10 @@
 
 We evaluate different types of models and present out findings.
 
-
 ### Contributors
 
-- Sheetal Rani Prasad
-- Sivapreethi Ramesh 
+- Sheetal Rani Prasad (RedID: 825861940)
+- Sivapreethi Ramesh  (RedID: 824928332)
 
 ### Models
 - Scikit-learn package: Linear SVM, Logistic Regression, Decision Tree, MLP Classifier
@@ -27,5 +26,9 @@ Running the notebook files require a set of packages to be installed. The packag
 ### Package Installation
 
 `pip install -r requirements.txt`
+
+#### Code Organisation
+Non-Sequential Models are developed under file Non_Sequential_Model.ipynb
+Sequential Models are developed under file Sequential_Model.ipynb
 
 
